@@ -5,4 +5,4 @@ These html documents consists of a main landing page consisting of links to vari
 ## Usage
 After accessing the website, you can click through the links to find the recipes. If you wish, you can follow along to cook some delicious meals!
 
-The website can be visited through the [link here!](https://anisshadh.github.io/Challenge3/)
+The website can be visited through the [link here!](https://anisshadh.github.io/odin-recipes/)
